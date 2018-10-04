@@ -10,4 +10,5 @@ int main()
     char godini[4];
     cin>>godini;
     cout<<ime<<"e na "<<godini<<endl;
+    cout<<"Kak si?";
     return 0;
